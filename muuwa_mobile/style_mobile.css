@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{background-color:#000000;font-family:YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "serif";font-color:#ffffff
+}
+main{width:80%;margin:0px auto;text-align: center;}
+h2{color: #FFFFFF;text-align: center;font-size:5vw;}
+h3{color:#FFFFFF;text-align: center;font-size:4vw;margin: 0px;padding:0px;}
+h4{color:#FFFFFF;text-align: center;font-size:3vw;margin: 0px;padding:0px;}
+h5{color:#FFFFFF;text-align:right;font-size:2vw;margin: 0px;padding:0px;}
+h6{color:#FFFFFF;text-align:center;font-size:2vw;margin: 0px;padding:0px;}
+
+
+p{color:#FFFFFF;text-align: center;font-size:3vw;margin: 0px;padding:0px;}
+.koi{color:#63293C;}
+
+img{width:100%;height:auto}
+
+.top{width:100%;height: auto;margin:0px auto;padding:0px;text-align: center;}
+.top img{width: 20%;height:auto;}
+
+.menu{width:100%;height: auto ;margin:0px;padding:0px;text-align:center;}
+.menu ul{margin:0px;padding:0px;}
+.menu ul li a{margin:0px;padding:10px; font-size:3vw;font-weight:bold;color:#AFAFAF;}
+.menu ul li a:hover{color:#FFFFFF}
+
+.img-box{width:100%;height:auto;margin:0px auto;padding:0px; text-align:center;font-color:#ffffff;}
+.img-box ul{list-style-type:none;margin:10px;padding:0px;flex-wrap:wrap;}
+.img-box ul li{opacity:1;}
+.img-box ul li:hover{transition:all 0.1s 0s ease;opacity:0.3;}
+.img-box ul li a{color:#FFFFFF;text-decoration: none;font-size:3vw;}
+.img-box h5 a{color: #A6A6A6;font-size:3vw;}
+.img-box h5 a:hover{color:#FFFFFF}
+
+.contact a{color: #FFFFFF}
+.contact a:hover{color:#C4C4C4}
+
+footer{width:100%;margin:0px auto;padding:0px;box-sizing:border-box;text-align:center;font-size:3vw;color:#828282}
+
